@@ -1,27 +1,4 @@
-# DTR: Define the Relationship
 
-Use this template to when conducting DTR with your project partners. It's recommended that you copy/paste this template into your own gist each time you conduct a DTR to take notes on the conversation. 
-
-### Guiding Questions to Define The Relationship:
-
-* What are your learning goals for this project? What drives us in this project?
-* What is your collaboration style? How do you feel about pair programming vs. divide-and-conquer approaches?
-* How do you communicate best? How do you appreciate receiving communication from others?
-* How would you describe your work style?
-* What are your strengths? How can our strengths complement each other?
-* What’s gone well or poorly in your previous projects?
-* How will we set direction and make decisions as a team?
-* How will we overcome obstacles?
-* What do you need (resources, environment, communication) to do your best work?
-* What scheduling restraints do you have? What are your scheduling preferences?
-* What is your style for giving feedback? Does anything ever hold you back from giving feedback?
-* What do you identify as being your biggest strength(s) technically, as they relate to this project? Where do you feel you could use improvement in your technical skills, as they relate to this project? How can our team help support you in improving these skills?
-* What tools do you want to use to manage the project?
-* How do you want the group to solve problems when members run into issues with features of the project?
-* How do you know if a project is successful? How can we achieve that as a group?
-* How will we recognize each other's successes and celebrate them?
-
-Any additional questions that you would like to add:
 
 
 
@@ -30,37 +7,47 @@ Any additional questions that you would like to add:
 
 ### Template for DTR Memo
 
-Project: 
 
-Group Member Names:
 
-Project Expectations: What does each group member hope to get out of this project? 
+Project: Linked List
 
-Goals and expectations:
-	
-Team strengths:
+Group Member Names: Laura Shamus, Lindsey Wilhite
 
-How to overcome obstacles:
+Project Expectations: What does each group member hope to get out of this project?
 
-Schedule Expectations (When are we available to work together and individually?):
+Goals and expectations: Github work flow, Fine tune, JS, and Dom manipulation and CSS Grid.
+
+Team strengths: We have a lot of similarities on personal expectations and working styles. This will
+hopefully help in our comfort levels for the first time pairing. We understand that it may just be first impression
+and are aware of how to overcome obstacles when thay arise.
+
+How to overcome obstacles: By communicating and setting expectations, active listening, empathy.
+
+Schedule Expectations (When are we available to work together and individually):
+Laura is pretty open. I have pets will need to discuss before each pairing because it will always be different. We both like mid morning to mid afternoon for in person, and remote is something we will to try for nighttime.
 
 Communication Expectations (How and often will we communicate? How do we keep lines of communication open?):
+Everyday and if not we will check in. Slack, and In person, and through Git-hub.
 
 Abilities Expectations (Technical strengths and areas for desired improvement):
+Everything, especially…JavaScript terminology and understanding syntax and pretty much everything about how functions expressions objects etc…work.
 
-Workload Expectations (What features do we each want to work on?):
+Workload Expectations (What features do we each want to work on?): see above.
 
-Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests): 
+Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests):
+We will use this pairing to support our learning and getting down the flow of git and coding.
 
 Expectations for giving and receiving feedback:
+Open and empathetic and asking if am crossing boundaries when i’m direct. I expect the same.
 
-Agenda to discuss project launch:
+Agenda to discuss project launch: Work on studying CSS grid tonight and begin layout for static comp tomorrow at turing a 10 am.
 
-Ideas:
- 
-Tools: 
+Ideas: Grid
+
+Tools: Grid, JS, DOM manipulation, GitHub
 
 Additional Notes:
+Excited to be a part of this!
 
 
 
