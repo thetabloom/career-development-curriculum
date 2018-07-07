@@ -14,7 +14,8 @@ Project: Linked List
 Group Member Names: Laura Shamus, Lindsey Wilhite
 
 Project Expectations: What does each group member hope to get out of this project?
-To learn about how to wprk with another human, to create proper git flow, and to hone our coding skills.
+
+To learn about how to work with another human, to create proper git flow, and to hone our coding skills.
 
 Goals and expectations: Github work flow, Fine tune, JS, and Dom manipulation and CSS Grid.
 
